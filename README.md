@@ -1,7 +1,3 @@
-git add README.md
-git commit -m "Add project README"
-git push origin main# Chronic Disease Cost Modelling — UAE/GCC Health Insurance
-
 **Author:** Amr Thabet | Healthcare Data & Business Analyst | Abu Dhabi, UAE
 **Tools:** Python · scikit-learn · SQL · pandas · matplotlib · seaborn
 **Dataset:** Synthetic 3,000-member GCC chronic disease cohort (2023–2024)
