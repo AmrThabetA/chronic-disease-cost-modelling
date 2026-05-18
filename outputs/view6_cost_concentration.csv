@@ -1,0 +1,3 @@
+member_segment,members,pct_of_members,total_cost_aed,pct_of_total_spend,avg_cost_aed,avg_er_visits,avg_inpatient_days
+Top 20% (high cost),600,20.0,45226274.0,37.4,75377.0,1.82,2.51
+Bottom 80%,2400,80.0,75571275.0,62.6,31488.0,1.51,2.02

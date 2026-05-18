@@ -1,0 +1,6 @@
+condition,members,avg_cost_aed,median_cost_aed,total_cost_aed,high_cost_pct,avg_er_visits,avg_inpatient
+Diabetes + Cardiac,334,72923,69756.5,24356236,80.0,1.5,2.1
+Cardiac,456,59139,56866.5,26967542,50.0,1.6,2.2
+Diabetes + Hypertension,502,46719,45354.5,23452992,20.0,1.6,2.1
+Diabetes,876,32114,30454.0,28131736,0.0,1.6,2.1
+Hypertension,832,21501,20528.5,17889043,0.0,1.6,2.1

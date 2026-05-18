@@ -1,0 +1,16 @@
+medication_compliance,condition,members,avg_cost_aed,avg_er_visits,avg_inpatient_days
+Low,Cardiac,118,59973.0,1.67,2.23
+Medium,Cardiac,181,59828.0,1.57,2.3
+High,Cardiac,157,57719.0,1.56,2.17
+High,Diabetes,324,32506.0,1.56,2.2
+Low,Diabetes,208,32130.0,1.61,2.0
+Medium,Diabetes,344,31735.0,1.53,1.95
+Low,Diabetes + Cardiac,72,76785.0,1.72,2.24
+High,Diabetes + Cardiac,116,76533.0,1.43,2.2
+Medium,Diabetes + Cardiac,146,68150.0,1.48,2.01
+Medium,Diabetes + Hypertension,201,47879.0,1.53,2.23
+High,Diabetes + Hypertension,173,46218.0,1.58,2.08
+Low,Diabetes + Hypertension,128,45576.0,1.68,1.97
+Low,Hypertension,209,21661.0,1.62,2.36
+High,Hypertension,327,21574.0,1.57,2.1
+Medium,Hypertension,296,21309.0,1.55,1.95

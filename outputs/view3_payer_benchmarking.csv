@@ -1,0 +1,8 @@
+payer,members,avg_cost_aed,portfolio_avg_cost,variance_vs_portfolio,variance_pct,high_cost_member_pct,avg_er_visits
+Sukoon Insurance,182,43999.0,40266.0,3733.0,9.3,24.7,1.58
+MetLife,381,41433.0,40266.0,1167.0,2.9,22.6,1.61
+ADNIC,365,41197.0,40266.0,931.0,2.3,19.2,1.61
+AXA Gulf,527,41015.0,40266.0,749.0,1.9,19.4,1.62
+Daman (HAAD),774,39432.0,40266.0,-834.0,-2.1,19.3,1.53
+BUPA Global,493,39084.0,40266.0,-1182.0,-2.9,19.7,1.45
+Cigna,278,37996.0,40266.0,-2270.0,-5.6,18.3,1.68
