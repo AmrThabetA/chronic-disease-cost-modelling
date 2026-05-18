@@ -19,6 +19,19 @@ This project answers three core questions every UAE insurer and RCM team faces:
 - Random Forest model achieves AUC 0.950 — correctly catches 87% of high-cost members
 - Top predictors: condition type, age, BMI, inpatient days, systolic BP
 - Potential saving of AED 3.4M if 70% of high-cost members are flagged for early intervention
+## Visuals
+
+### Cost by chronic condition
+![Cost by condition](outputs/01_cost_by_condition.png)
+
+### Payer benchmarking — high-cost rate and ER utilisation
+![Payer benchmarking](outputs/04_payer_benchmarking.png)
+
+### ROC curve — model comparison
+![ROC curve](outputs/11_roc_curve.png)
+
+### Feature importance — what drives high-cost predictions
+![Feature importance](outputs/13_feature_importance.png)
 
 ## Project Structure
 
